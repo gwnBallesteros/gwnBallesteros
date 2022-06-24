@@ -1,11 +1,11 @@
 # Hi there, I'm Gwen! 👋 
 
-- 🔭 Awesome big projects coming Soon!
+- 🔭 Awesome big projects coming soon!
 - 🌱 Currently studying Visual Basic.Net
 - 📌 Taking Harvard CS50 course
 - 🥅 2022 Goals: Learn more about software developing and explore
-                  Mobile developing with Flutter.
-- ⚡ Fun fact: I love to read History and Geography books.
+                  mobile developing with Flutter.
+- ⚡ Fun fact: I love to read history and geography books.
 
 ## Programming Languages
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
