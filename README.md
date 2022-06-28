@@ -2,7 +2,7 @@
 
 - 🔭 Awesome big projects coming soon!
 - 🌱 Currently studying Visual Basic.Net
-- 📌 Taking Harvard CS50 course
+- 📌 Taking Harvard CS50 course.
 - 🥅 2022 Goals: Learn more about software developing and explore
                   mobile developing with Flutter.
 - ⚡ Fun fact: I love to read history and geography books.
