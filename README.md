@@ -4,7 +4,7 @@
 - 🌱 Going to study Kotlin with firebase.
 - 📌 Taking BSIT degree.
 - 🥅 2023 Goals: Learn more about software engineering and explore
-                  mobile developing with Kotlin.
+                  mobile development with Kotlin.
 - ⚡ Fun fact: I love to read history and geography books.
 
 ## Programming Languages
