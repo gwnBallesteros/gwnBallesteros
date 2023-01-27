@@ -1,10 +1,10 @@
 # Hi there, I'm Gwen! 👋 
 
-- 🔭 Awesome big projects coming soon!
-- 🌱 Currently studying Visual Basic.Net
-- 📌 Taking Harvard CS50 course.
-- 🥅 2022 Goals: Learn more about software developing and explore
-                  mobile developing with Flutter.
+- 🔭 Awesome big projects are on the way!
+- 🌱 Going to study Kotlin with firebase.
+- 📌 Taking BSIT degree.
+- 🥅 2023 Goals: Learn more about software engineering and explore
+                  mobile developing with Kotlin.
 - ⚡ Fun fact: I love to read history and geography books.
 
 ## Programming Languages
